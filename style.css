@@ -1,0 +1,11 @@
+#container {
+	margin: 0 auto;
+	height: 600px;
+	width: 600px;
+	border: 1px solid #666;
+}
+
+.grid {
+	display:inline-block;
+	background-color: #fff;
+}
